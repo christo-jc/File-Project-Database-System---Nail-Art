@@ -69,9 +69,9 @@ Ikuti instruksi berikut untuk menjalankan skema database di sistem lokal Anda:
 
 Proyek Database ini disusun dan dikembangkan oleh **Kelompok 5**:
 
-* **[Nama Lengkap Anda]** - [NIM/ID Mahasiswa]
-* **[Nama Teman 1]** - [NIM/ID Mahasiswa]
-* **[Nama Teman 2]** - [NIM/ID Mahasiswa]
-* **[Nama Teman 3]** - [NIM/ID Mahasiswa]
+* **[Judica Christo Radja]** - [622024002]
+* **[Gabriel Hizkia Hans]** - [622024014]
+* **[Permata Surya Cahyana]** - [622024016]
+* **[Gerald Adi Saputra Remindau]** - [622024023]
 
 *Dibuat dengan 💻 dan ☕ untuk evaluasi mata kuliah Database System.*
